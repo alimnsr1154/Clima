@@ -1,16 +1,16 @@
-# clima
+# Clima ☁
 
-A new Flutter project.
+A Clima Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+I created a weather app inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-).The API i integrated in this app is from [openweather](https://openweathermap.org/) .
+In this app, you'll be able to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<div align="center" width="50">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif" alt="Welcome!" width="250" height= "500" />
+
+</div>
+
